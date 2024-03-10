@@ -13,8 +13,6 @@ Por el momento, te invito a echar un vistazo a mi repositorio Python jr.
 
 ¡Espero que encuentres la información útil y que disfrutes explorando el mundo de la programación!
 
-Atentamente,
-Angélica Torres
 
 ![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/c1eddce6-5679-4005-90fc-f2f1c2ff001a)
 
@@ -29,5 +27,4 @@ If you're just starting out in the world of programming and have any questions a
 
 For now, feel free to take a look at my Python junior repository.
 
-Best regards,
-Angélica Torres
+
