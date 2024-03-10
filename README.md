@@ -1,4 +1,4 @@
-![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/6b4b3848-4a77-4ce2-81cf-9e007ad01ea8)
+![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/53e02a2c-1fa9-4a12-890c-5b9aa8293a9d)
 
 
 ¡Bienvenido!
