@@ -1,5 +1,4 @@
-![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/58a6c1f9-3462-4d00-b16a-0d3679e128ff)
-
+![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/29e18d0b-82f3-4656-9196-4bab9281c605)
 
 
 ¡Bienvenido!
@@ -15,7 +14,7 @@ Por el momento, te invito a echar un vistazo a mi repositorio Python jr.
 ¡Espero que encuentres la información útil y que disfrutes explorando el mundo de la programación!
 
 
-                    ![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/c1eddce6-5679-4005-90fc-f2f1c2ff001a)
+![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/98ab6280-2b0c-45bb-a586-da13ac035c61)
 
 
 Welcome!
