@@ -1,4 +1,5 @@
-![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/ef9a67e4-1976-4b9a-a136-3ca5a5fec54d)
+![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/6b4b3848-4a77-4ce2-81cf-9e007ad01ea8)
+
 
 ¡Bienvenido!
 
@@ -16,6 +17,7 @@ Atentamente,
 Angélica Torres
 
 ![image](https://github.com/Angie-Torres-M/Python-jr./assets/162844248/c1eddce6-5679-4005-90fc-f2f1c2ff001a)
+
 
 Welcome!
 
